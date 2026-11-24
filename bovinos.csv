@@ -1,0 +1,5 @@
+Identificacion,Sexo,Color,Peso entrada,Estado,Peso salida,Precio venta
+A-001,Macho,Negro,250,En finca,,
+A-002,Hembra,Pintada,300,En finca,,
+A-003,Macho,Blanco,280,Vendido,360.0,2800000.0
+A-004,Hembra,Café,320,Vendido,400.0,3500000.0
