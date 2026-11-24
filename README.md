@@ -1,9 +1,15 @@
 # PROYECTO FINAL DE PROGRAMACIÓN - 🐄 Ganadería WJ
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/78a22c4a-d7f3-46d7-aaf8-ce0996569153" alt="Ganadería WJ" width="45%">
-  <img src="https://github.com/user-attachments/assets/0c4afe4f-5340-407c-ba8a-705ca13af999" alt="Imagen del proyecto" width="45%">
-</p>
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/78a22c4a-d7f3-46d7-aaf8-ce0996569153" alt="Ganadería WJ" width="350">
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/0c4afe4f-5340-407c-ba8a-705ca13af999" alt="Imagen del proyecto" width="350">
+    </td>
+  </tr>
+</table>
 
 AUTORES: Enna Sofia Tulande Yoshioka, Leidy Sofia Henao Ramírez
 
