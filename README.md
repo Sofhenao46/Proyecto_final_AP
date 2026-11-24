@@ -3,10 +3,10 @@
 <table>
   <tr>
     <td align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/78a22c4a-d7f3-46d7-aaf8-ce0996569153" alt="Ganadería WJ" width="350">
+      <img src="https://github.com/user-attachments/assets/34bb0e7c-87f5-4540-9a32-accc012bcaf8" alt="Ganadería WJ" width="350">
     </td>
     <td align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/0c4afe4f-5340-407c-ba8a-705ca13af999" alt="Imagen del proyecto" width="350">
+      <img src="https://github.com/user-attachments/assets/a0cffeea-f0dc-495c-8fbe-8afb8b11405f" alt="Imagen del proyecto" width="350">
     </td>
   </tr>
 </table>
